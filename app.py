@@ -83,7 +83,7 @@ st.header("Explora cómo la inteligencia emocional y la tecnología se unen para
 st.write("Aquí comenzamos a desarrollar aplicaciones que integran backend y frontend con un enfoque centrado en el bienestar del usuario — en este caso, del bebé y su entorno.")
 
 # Imagen principal
-image = Image.open('Interfaces Mult2.png')
+image = Image.open('ChatGPT Image 22 oct 2025, 23_30_30.png')
 st.image(image, caption='Diseño de interfaces multimodales', use_container_width=True)
 
 # Entrada de texto
